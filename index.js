@@ -4,8 +4,8 @@ const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 puppeteer.use(StealthPlugin());
 
 const url = "https://mail.google.com/";
-const gmailLogin = "your_username";
-const gmailPassword = "your_password";
+const gmailLogin = "andrewmax1984777@gmail.com";
+const gmailPassword = "Emma2017shu-shu";
 
 const scrape = async () => {
   try {

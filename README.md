@@ -1,25 +1,37 @@
-Welcome to testTask-TovaruIzUSA 👋
+# Welcome to testTask-TovaruIzUSA 👋
+
 This is a script that runs on a Node.js server environment using the puppeteer library. Allows you to get data about unread emails from the user's gmail mail.
 
-🏠 Homepage
-Install
+### 🏠 [Homepage](https://github.com/Andrij-Maksymyshyn/testTask-TovaruIzUSA)
+
+## Install
+
+```sh
 $ npm install
-Usage
+```
+
+## Usage
+
 In the file index.js you need to write your gmail login and password instead of "your_username" and "your_password" in the gmailLogin and gmailPassword variables. After that, write the next command in the terminal:
+
+```sh
 $ npm start
-Author
-👤 Andrij-Maksymyshyn
+```
 
-Github: @Andrij-Maksymyshyn
+## Author
 
-Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+👤 **Andrij-Maksymyshyn**
 
-👨‍💻 All of my projects are available at https://github.com/Andrij-Maksymyshyn
+- Github: [@Andrij-Maksymyshyn](https://github.com/Andrij-Maksymyshyn)
 
-💬 Ask me about Node.js, express.js, puppeteer, mongodb, SQL, GraphQl, Jest, TS, AWS, React.js
+## Contributing
 
-📫 How to reach me maxandrij@ukr.net
+Pull requests are welcome. For major changes, please open an issue first to
+discuss what you would like to change.
 
-Languages and Tools:
-javascript nodejs puppeteer
+- 👨‍💻 All of my projects are available at
+  [https://github.com/Andrij-Maksymyshyn](https://github.com/Andrij-Maksymyshyn)
+
+- 💬 Ask me about **Node.js, express.js, puppeteer, mongodb, SQL, GraphQl, Jest, TS, AWS, React.js**
+
+- 📫 How to reach me **maxandrij@ukr.net**
